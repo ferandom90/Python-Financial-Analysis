@@ -1,4 +1,4 @@
-# python-challenge
+# Python-Financial Analysis
 
 This Python script reads a CSV file containing financial data, processes it, and prints out some financial analysis results. The code imports the built-in csv module to read the CSV file and then opens the file using the open() function. The CSV file path is specified in the code, PayBank = "/Users/fernandoescamilla/python-challenge/PyBank/Resources/budget_data.csv". and PyPoll = "/Users/fernandoescamilla/python-challenge/PayPoll/Resources/budget_data.csv"
 
